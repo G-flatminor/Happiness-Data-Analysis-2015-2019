@@ -58,7 +58,7 @@
 ### 2015 data correlation
 ![Correlation Heatmap 2015](https://user-images.githubusercontent.com/46631208/115151899-ed9e7980-a03c-11eb-93f8-796d0001739f.png)
 
-### 2016 data correlation0
+### 2016 data correlation
 ![Correlation Heatmap 2016](https://user-images.githubusercontent.com/46631208/115151932-145cb000-a03d-11eb-8bec-993ed35c9ff9.png)
 
 ### 2017 data correlation
@@ -72,14 +72,19 @@
 
 ### We would like to take a closer look at relationships of those variables.
 
+### 2015 data pairplot
 ![pairplot2015](https://user-images.githubusercontent.com/46631208/115152077-ab296c80-a03d-11eb-922c-511b2bb4a21b.png)
 
+### 2016 data pairplot
 ![pairplot2016](https://user-images.githubusercontent.com/46631208/115152081-af558a00-a03d-11eb-9a88-a20204f818b0.png)
 
+### 2017 data pairplot
 ![pairplot2017](https://user-images.githubusercontent.com/46631208/115152087-b1b7e400-a03d-11eb-87c9-1725394c05e8.png)
 
+### 2018 data pairplot
 ![pairplot2018](https://user-images.githubusercontent.com/46631208/115152092-b41a3e00-a03d-11eb-95f0-a737ee1ee7ea.png)
 
+### 2019 data pairplot
 ![pairplot2019](https://user-images.githubusercontent.com/46631208/115152095-b9778880-a03d-11eb-9d98-51df008bd95f.png)
 
 
