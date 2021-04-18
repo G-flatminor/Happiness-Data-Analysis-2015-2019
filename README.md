@@ -22,6 +22,8 @@
 ### Each variable in each year was plotted to take a look at distribution.
 ![Happiness Score 2015-2019](https://user-images.githubusercontent.com/46631208/115151154-a793e680-a039-11eb-9364-135519430496.png)
 
+
+
 ![GDP per Capita in 2015-2019](https://user-images.githubusercontent.com/46631208/115151163-b4183f00-a039-11eb-987d-113ff58c8e7c.png)
 
 ![Life Expectancy 2015-2019](https://user-images.githubusercontent.com/46631208/115151168-b8445c80-a039-11eb-9f71-9a13ae760d5a.png)
