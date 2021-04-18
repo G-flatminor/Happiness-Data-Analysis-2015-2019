@@ -87,13 +87,38 @@
 ### 2019 data pairplot
 ![pairplot2019](https://user-images.githubusercontent.com/46631208/115152095-b9778880-a03d-11eb-9d98-51df008bd95f.png)
 
+### The correlation analysis revealed a strong relationship among Happiness, GDP per Capita, Family support, and Life Expectancy.
+
+## 4. Causal Relationships (Multiple Linear Regression Analysis)
+### Based on the relationships among variables we explored how well we can predict the happiness score in each country from the other 5 variables. The correlation analysis leads us to assume strong influences from GDP per Capita, Life Expectancy, and Family Support as well as intermediate influence from Freedom. 
+
+![multiple_regression_result](https://user-images.githubusercontent.com/46631208/115152618-c9906780-a03f-11eb-93d2-149cde927d5b.PNG)
 
 
+### Multiple linear regression analysis found that GDP per Capita and the life expectancy influence a feeling of happiness as expected. However, the family support has a relatively small influence on the happiness (coefficient = 0.58, p<.01). Since the family support is highly correlated to a high income and longer life, these factors might enable people in those countries to support each other among family. In other words, higher income and longer life might make it easier to support other family members.
+
+### Despite a relatively low correlation coefficient with the happiness (r=0.54 to 0.57), the freedom has a highest impact on the happiness score (coefficient = 1.705, p<.01).
+
+## 5. Further Exploratory Data Analysis
+### Top 30 happiness countries data plot shows that many of them are Westernized countries (Switzerland, Iceland, Denmark, Norway, Canada, Finland, Netherland, and Sweden, etc.).
+### We will colorcode each country by the level of happiness to see if the regional tendency of happiness level.
+
+### Happiness level mapping 2015
+![happiness_score_map_2015](https://user-images.githubusercontent.com/46631208/115152835-d95c7b80-a040-11eb-8b24-d44202612e52.PNG)
 
 
+### Happiness level mapping 2016
+![happiness_score_map_2016](https://user-images.githubusercontent.com/46631208/115152848-ee390f00-a040-11eb-8116-fd15d6f4af24.PNG)
 
+### Happiness level mapping 2017
+![happiness_score_map_2017](https://user-images.githubusercontent.com/46631208/115152864-fdb85800-a040-11eb-81e5-ec020351042a.PNG)
 
+### Happiness level mapping 2018
+![happiness_score_map_2018](https://user-images.githubusercontent.com/46631208/115152874-0872ed00-a041-11eb-98e3-92f4f41c2099.PNG)
 
+### Happiness level mapping 2019
+![happiness_score_map_2019](https://user-images.githubusercontent.com/46631208/115152881-132d8200-a041-11eb-9614-1b7e504c75bd.PNG)
 
+### The world map with coloring based on the happiness level shows that western countries are highly likely to be rated for one of the happiest countries. The other countries are rated low happiness. However, we need to be careful to conclude that the happiness level or happiness ranking shows how good the happiest people are. A feeling of happiness is just one of many indicators to measure quality of their lives.
 
 
