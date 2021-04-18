@@ -50,9 +50,24 @@
 
 ![Generosity in top 30 happiness countries in 2015-2019](https://user-images.githubusercontent.com/46631208/115151804-7e288a00-a03c-11eb-835e-3be6e5cfebba.png)
 
+### Plotting data points of each variable somehow indicates relationships between a feeling of happiness and the other 5 variables. We calculated Pearson correlation coefficient among the variables.
 
 
+## 3. Correlation Analysis
 
+![Correlation Heatmap 2015](https://user-images.githubusercontent.com/46631208/115151899-ed9e7980-a03c-11eb-93f8-796d0001739f.png)
+
+
+![Correlation Heatmap 2016](https://user-images.githubusercontent.com/46631208/115151932-145cb000-a03d-11eb-8bec-993ed35c9ff9.png)
+
+
+![Correlation Heatmap 2017](https://user-images.githubusercontent.com/46631208/115151935-17f03700-a03d-11eb-9979-10862aeaf60d.png)
+
+
+![Correlation Heatmap 2018](https://user-images.githubusercontent.com/46631208/115151937-19b9fa80-a03d-11eb-8f92-fa7e4dd15455.png)
+
+
+![Correlation Heatmap 2019](https://user-images.githubusercontent.com/46631208/115151942-1e7eae80-a03d-11eb-8ce5-2b58f2066fdd.png)
 
 
 
