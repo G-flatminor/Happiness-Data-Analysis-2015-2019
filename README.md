@@ -19,7 +19,28 @@
 ### 5. Further Exploratory Data Analysis (EDA)
 
 ## 1.Exploratory Data Analysis
+### Each variable in each year was plotted to take a look at distribution.
+![Happiness Score 2015-2019](https://user-images.githubusercontent.com/46631208/115151154-a793e680-a039-11eb-9364-135519430496.png)
 
-import pandas as pd
-import glob
+![GDP per Capita in 2015-2019](https://user-images.githubusercontent.com/46631208/115151163-b4183f00-a039-11eb-987d-113ff58c8e7c.png)
+
+![Life Expectancy 2015-2019](https://user-images.githubusercontent.com/46631208/115151168-b8445c80-a039-11eb-9f71-9a13ae760d5a.png)
+
+![Trust (Government Curruption) 2015-2019](https://user-images.githubusercontent.com/46631208/115151176-bed2d400-a039-11eb-9ab0-dbf4c4185af7.png)
+
+![Family support in 2015-2019](https://user-images.githubusercontent.com/46631208/115151199-d5792b00-a039-11eb-9f8b-c214ed1d1040.png)
+
+![Generosity 2015-2019](https://user-images.githubusercontent.com/46631208/115151207-dca03900-a039-11eb-8645-82cd1ed22118.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
