@@ -18,6 +18,8 @@
 ### 4. Analysis of causal relationships (multiple linear regression analysis)
 ### 5. Further Exploratory Data Analysis (EDA)
 
+### All data process and statistical analysis were conducted by Python.
+
 ## 1.Exploratory Data Analysis
 ### Each variable in each year was plotted to take a look at distribution.
 ![Happiness Score 2015-2019](https://user-images.githubusercontent.com/46631208/115151154-a793e680-a039-11eb-9364-135519430496.png)
